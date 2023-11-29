@@ -5,10 +5,10 @@
 Hello there! I'm a passionate software development student. I'm dedicated to crafting elegant and efficient code that solve real-world problems.
 
 ## Technologies i've used
-[![languages](https://skillicons.dev/icons?i=php,java,js,c,cpp,py,bash,rust&theme=light)](https://skillicons.dev)<br />
-[![libraries](https://skillicons.dev/icons?i=html,css,arduino,bootstrap,mysql,mongodb&theme=light)](https://skillicons.dev)<br />
-[![frameworks](https://skillicons.dev/icons?i=react,laravel,flask&theme=light)](https://skillicons.dev)<br />
-[![technologies](https://skillicons.dev/icons?i=docker,figma,git,linux,ps,postman&theme=light)](https://skillicons.dev)<br />
+[![languages](https://skillicons.dev/icons?i=php,cpp,java,js,c,py,bash,rust&theme=light)](https://skillicons.dev)<br />
+[![libraries](https://skillicons.dev/icons?i=html,css,mysql,mongodb,bootstrap,arduino&theme=light)](https://skillicons.dev)<br />
+[![frameworks](https://skillicons.dev/icons?i=laravel,react,flask&theme=light)](https://skillicons.dev)<br />
+[![technologies](https://skillicons.dev/icons?i=linux,git,docker,figma,ps,postman&theme=light)](https://skillicons.dev)<br />
 
 ## Some stats
 <div>
@@ -18,6 +18,5 @@ Hello there! I'm a passionate software development student. I'm dedicated to cra
 
 ## Get in Touch
 
-- GitHub: [xrimsonn](https://github.com/xrimsonn)
-- LinkedIn: [linkedin](https://www.linkedin.com/in/antonio-rosales-maldonado-207793263/)
-- Email: jose.rosales.mald@gmail.com
+- Linkedin: [linkedin](https://www.linkedin.com/in/antonio-rosales-maldonado-207793263/)
+- Gmail: jose.rosales.mald@gmail.com
